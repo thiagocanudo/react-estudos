@@ -1,0 +1,11 @@
+.secao{
+  display: flex;
+  border: 2px solid #ddd;
+  padding: 10px 5px;
+  border-radius: 20px;
+}
+
+.dados{
+  text-align: left;
+  margin: 5px;
+}
